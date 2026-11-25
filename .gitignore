@@ -1,0 +1,9 @@
+
+# File hasil kompilasi C++
+*.exe
+*.o
+*.out
+
+# File sementara
+*.tmp
+*.log
